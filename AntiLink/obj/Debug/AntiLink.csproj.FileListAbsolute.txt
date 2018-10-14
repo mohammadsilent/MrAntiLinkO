@@ -1,0 +1,10 @@
+c:\users\mohammad\documents\visual studio 2013\Projects\AntiLink\AntiLink\bin\Debug\AntiLink.exe.config
+c:\users\mohammad\documents\visual studio 2013\Projects\AntiLink\AntiLink\bin\Debug\AntiLink.exe
+c:\users\mohammad\documents\visual studio 2013\Projects\AntiLink\AntiLink\bin\Debug\AntiLink.pdb
+c:\users\mohammad\documents\visual studio 2013\Projects\AntiLink\AntiLink\obj\Debug\AntiLink.csprojResolveAssemblyReference.cache
+c:\users\mohammad\documents\visual studio 2013\Projects\AntiLink\AntiLink\obj\Debug\AntiLink.exe
+c:\users\mohammad\documents\visual studio 2013\Projects\AntiLink\AntiLink\obj\Debug\AntiLink.pdb
+c:\users\mohammad\documents\visual studio 2013\Projects\AntiLink\AntiLink\bin\Debug\Newtonsoft.Json.dll
+c:\users\mohammad\documents\visual studio 2013\Projects\AntiLink\AntiLink\bin\Debug\Telegram.Bot.dll
+c:\users\mohammad\documents\visual studio 2013\Projects\AntiLink\AntiLink\bin\Debug\Newtonsoft.Json.xml
+c:\users\mohammad\documents\visual studio 2013\Projects\AntiLink\AntiLink\bin\Debug\Telegram.Bot.xml
